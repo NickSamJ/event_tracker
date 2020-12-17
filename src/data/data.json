@@ -1,0 +1,447 @@
+[{
+    "clicks": [
+      {
+        "x": 709,
+        "y": 78,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 709,
+        "y": 78,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 709,
+        "y": 78,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 709,
+        "y": 78,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 467,
+        "y": 48,
+        "target": "BODY",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 794,
+        "y": 638,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 756,
+        "y": 779,
+        "target": {},
+        "link": "https://www.google.com/",
+        "type": "EXTERNAL_LINK"
+      }
+    ],
+    "device": "computer",
+    "startTime": "2020-12-16T09:25:40.250Z",
+    "userIp": "194.90.66.9",
+    "sessionId": "1608110740592_194.90.66.9",
+    "finishTime": "2020-12-16T09:25:43.972Z",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36",
+    "screenWidth": 1050,
+    "screenHeight": 1680,
+    "pageUrl": "https://stackoverflow.com/"
+  },
+  {
+    "clicks": [
+      {
+        "x": 572,
+        "y": 196,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 513,
+        "y": 37,
+        "target": "BODY",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 513,
+        "y": 37,
+        "target": "BODY",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 484,
+        "y": 62,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 459,
+        "y": 120,
+        "target": "INPUT",
+        "link": "",
+        "type": "FORM_CLICK"
+      },
+      {
+        "x": 272,
+        "y": 126,
+        "target": "INPUT",
+        "link": "",
+        "type": "FORM_CLICK"
+      },
+      {
+        "x": 336,
+        "y": 414,
+        "target": {},
+        "link": "https://www.google.com/",
+        "type": "EXTERNAL_LINK"
+      }
+    ],
+    "device": "mobile",
+    "startTime": "2020-12-16T09:36:10.148Z",
+    "userIp": "194.90.66.9",
+    "sessionId": "1608111370477_194.90.66.9",
+    "finishTime": "2020-12-16T09:36:16.478Z",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15",
+    "screenWidth": 1050,
+    "screenHeight": 1680
+  },
+  {
+    "clicks": [
+      {
+        "x": 984,
+        "y": 75,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 984,
+        "y": 75,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 982,
+        "y": 262,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 992,
+        "y": 348,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 971,
+        "y": 425,
+        "target": "A",
+        "link": "https://www.google.com/",
+        "type": "EXTERNAL_LINK"
+      }
+    ],
+    "device": "computer",
+    "startTime": "2020-12-16T09:54:04.743Z",
+    "userIp": "000.000.000.000",
+    "sessionId": "1608112445703_000.000.000.000",
+    "finishTime": "2020-12-16T09:54:19.587Z",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:83.0) Gecko/20100101 Firefox/83.0",
+    "screenWidth": 1050,
+    "screenHeight": 1680,
+    "pageUrl": "https://stackoverflow.com/"
+  },
+  {
+    "clicks": [
+      {
+        "x": 776,
+        "y": 774,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 781,
+        "y": 773,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 781,
+        "y": 773,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 151,
+        "y": 138,
+        "target": "INPUT",
+        "link": "",
+        "type": "FORM_CLICK"
+      },
+      {
+        "x": 250,
+        "y": 130,
+        "target": "INPUT",
+        "link": "",
+        "type": "FORM_CLICK"
+      },
+      {
+        "x": 461,
+        "y": 134,
+        "target": "INPUT",
+        "link": "",
+        "type": "FORM_CLICK"
+      },
+      {
+        "x": 517,
+        "y": 426,
+        "target": "A",
+        "link": "https://reactjs.org/",
+        "type": "EXTERNAL_LINK"
+      }
+    ],
+    "device": "computer",
+    "startTime": "2020-12-16T09:55:59.476Z",
+    "userIp": "109.253.196.214",
+    "sessionId": "1608112563579_109.253.196.214",
+    "finishTime": "2020-12-16T09:56:10.882Z",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36",
+    "screenWidth": 1050,
+    "screenHeight": 1680,
+    "pageUrl": "https://stackoverflow.com/"
+  },
+  {
+    "clicks": [
+      {
+        "x": 555,
+        "y": 124,
+        "target": "FORM",
+        "link": "",
+        "type": "FORM_CLICK"
+      },
+      {
+        "x": 568,
+        "y": 164,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 568,
+        "y": 193,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 569,
+        "y": 233,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 575,
+        "y": 372,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 575,
+        "y": 443,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 575,
+        "y": 166,
+        "target": "UL",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 572,
+        "y": 143,
+        "target": "BODY",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 136,
+        "y": 124,
+        "target": "INPUT",
+        "link": "",
+        "type": "FORM_CLICK"
+      },
+      {
+        "x": 264,
+        "y": 131,
+        "target": "INPUT",
+        "link": "",
+        "type": "FORM_CLICK"
+      },
+      {
+        "x": 383,
+        "y": 133,
+        "target": "INPUT",
+        "link": "",
+        "type": "FORM_CLICK"
+      },
+      {
+        "x": 37,
+        "y": 16,
+        "target": "BUTTON",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 37,
+        "y": 16,
+        "target": "BUTTON",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 65,
+        "y": 53,
+        "target": "A",
+        "link": "https://stackoverflow.com/search?q=parser&s=46b594ec-6fe2-45a7-a768-aaccc99716cc",
+        "type": "EXTERNAL_LINK"
+      }
+    ],
+    "device": "computer",
+    "startTime": "2020-12-16T09:56:58.798Z",
+    "userIp": "109.253.196.214",
+    "sessionId": "1608112619459_109.253.196.214",
+    "finishTime": "2020-12-16T09:58:44.275Z",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15",
+    "screenWidth": 1050,
+    "screenHeight": 1680,
+    "pageUrl": "https://stackoverflow.com/"
+  },
+  {
+    "clicks": [
+      {
+        "x": 932,
+        "y": 341,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 950,
+        "y": 204,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 941,
+        "y": 69,
+        "target": "LI",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 545,
+        "y": 230,
+        "target": "A",
+        "link": "https://stackoverflow.com/search?q=parser&s=46b594ec-6fe2-45a7-a768-aaccc99716cc",
+        "type": "EXTERNAL_LINK"
+      }
+    ],
+    "device": "computer",
+    "startTime": "2020-12-16T10:00:33.900Z",
+    "userIp": "109.253.196.214",
+    "sessionId": "1608112834367_109.253.196.214",
+    "finishTime": "2020-12-16T10:00:41.039Z",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:83.0) Gecko/20100101 Firefox/83.0",
+    "screenWidth": 1050,
+    "screenHeight": 1680,
+    "pageUrl": "https://stackoverflow.com/"
+  },
+  {
+    "clicks": [
+      {
+        "x": 321,
+        "y": 166,
+        "target": "HTML",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 325,
+        "y": 176,
+        "target": "HTML",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 318,
+        "y": 56,
+        "target": "HTML",
+        "link": "",
+        "type": "OTHER"
+      },
+      {
+        "x": 177,
+        "y": 129,
+        "target": "INPUT",
+        "link": "",
+        "type": "FORM_CLICK"
+      },
+      {
+        "x": 142,
+        "y": 156,
+        "target": "INPUT",
+        "link": "",
+        "type": "FORM_CLICK"
+      },
+      {
+        "x": 124,
+        "y": 176,
+        "target": "INPUT",
+        "link": "",
+        "type": "FORM_CLICK"
+      },
+      {
+        "x": 74,
+        "y": 81,
+        "target": "A",
+        "link": "https://stackoverflow.com/search?q=spring+boot",
+        "type": "EXTERNAL_LINK"
+      }
+    ],
+    "device": "mobile",
+    "startTime": "2020-12-16T11:56:48.122Z",
+    "userIp": "194.90.66.9",
+    "sessionId": "1608119808723_194.90.66.9",
+    "finishTime": "2020-12-16T11:56:54.600Z",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1",
+    "screenWidth": 568,
+    "screenHeight": 320,
+    "pageUrl": "https://stackoverflow.com/"
+  }]
