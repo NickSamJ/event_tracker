@@ -2,7 +2,7 @@
 
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). -->
 
-Before start type install needed dependensies
+Before start - install needed dependensies
 
 ### `npm install`
 
